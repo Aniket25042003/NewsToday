@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="news_title" type="id" />
+    <item name="news_description" type="id" />
+    <item name="category1_layout" type="id" />
+    <item name="category7_layout" type="id" />
+    <item name="category2_layout" type="id"/>
+    <item name="category3_layout" type="id"/>
+    <item name="category4_layout" type="id"/>
+    <item name="category5_layout" type="id"/>
+    <item name="category6_layout" type="id"/>
+</resources>

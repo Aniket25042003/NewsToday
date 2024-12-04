@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News Today</string>
+    <string name="news_image_description">News Image Description</string>
+    <string name="loading_screen_image">loading_screen_image</string>
+    <string name="news_image">news_image</string>
+    <string name="button1_category">Business</string>
+    <string name="button2_category">Entertainment</string>
+    <string name="button3_category">Health</string>
+    <string name="button4_category">Science</string>
+    <string name="button5_category">Sports</string>
+    <string name="button6_category">Technology</string>
+    <string name="button7_category">General</string>
+    <string name="search_hint">Search</string>
+    <string name="bookmark_icon">Bookmark</string>
+    <string name="menu_button_description">Menu</string>
+    <string name="about_button_description">About Button</string>
+    <string name="back_button_description">Back Button For Bookmark Page</string>
+</resources>
